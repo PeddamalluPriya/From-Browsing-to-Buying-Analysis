@@ -1,5 +1,5 @@
-﻿User_ID,Platform,Product_Interest,Price_Visible,Assumed_Expensive,Actual_Price,Shipping_Cost,Response_Time_Mins,Delivery_Days,Purchased,Drop_Reason,,,,,,,,,,,,,,,
-1,Instagram,High,No,Yes,"$2,500.00",$150.00,120,7,No,Assumed costly,,,,,,,,,,,,,,,
+﻿User_ID,Platform,Product_Interest,Price_Visible,Assumed_Expensive,Actual_Price,Shipping_Cost,Response_Time_Mins,Delivery_Days,Purchased,Drop_Reason
+1,Instagram,High,No,Yes,"$2,500.00",$150.00,120,7,No,Assumed costly
 2,Instagram,High,No,Yes,"$1,800.00",$200.00,45,6,No,Hidden price,,,,,,,,,,,,,,,
 3,Myntra,Medium,Yes,No,"$1,200.00",$0.00,0,1,Yes,None,,,,,,,,,,,,,,,
 4,Instagram,High,Yes,No,"$4,500.00",$250.00,15,8,Yes,None,,,,,,,,,,,,,,,
